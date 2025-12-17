@@ -5,13 +5,13 @@ A personal wiki for my devops learning path
 
 ## Certifications (AWS)
 
-### Cloud Practioner 
+###  1. Cloud Practioner 
 
-### Solution Architect (Associate)
+###  2. Solution Architect (Associate)
 
-### Dev associate
+###  3. Dev associate
 
-Then assessment & followup.
+###  4. Re-assess & move on
 
 # Learning Philosohpy
 ##  1. IAC in parallele to theorical learnings
